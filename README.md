@@ -19,5 +19,6 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 
 - *Personal:* http://riten.io
 - *GitHub:* http://github.com/ritenv
+- *Twitter:* http://twitter.com/ritenv
 - *LinkedIn:* http://ae.linkedin.com/in/ritenvagadiya
 - *Project:* http://github.com/ritenv/atwork
