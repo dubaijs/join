@@ -1,3 +1,5 @@
+![superman-logo](Superman_JS.jpg)
+
 # What is DubaiJS (DJS)
 
 DubaiJS is a community of quality JavaScript developers residing in Dubai. Due to the challenge of finding the right JavaScript talent in the region, here is a list of developers who hit the mark.
