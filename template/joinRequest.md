@@ -7,4 +7,4 @@
 - *GitHub:* {link to github profile}
 - *Twitter:* {link to twitter profile}
 - *LinkedIn:* {link to linkedin profile}
-- *Project:* {link to one javascript code base on github that you're happy of}
+- *OS Project:* {link to one javascript code base on github that you're happy of}

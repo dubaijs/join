@@ -14,17 +14,6 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 
 ------------
 
-1. **Riten Vagadiya**
-/ Full-Stack (AngularJS, NodeJS)
-
-- *Personal:* http://riten.io
-- *GitHub:* http://github.com/ritenv
-- *Twitter:* http://twitter.com/ritenv
-- *LinkedIn:* http://ae.linkedin.com/in/ritenvagadiya
-- *Project:* http://github.com/ritenv/atwork
-
-------------
-
 **Nitesh Sharma**
 / Full-stack (TDD, AngularJs, NodeJS)
 
@@ -32,3 +21,16 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 - *GitHub:* https://github.com/metanitesh
 - *LinkedIn:* https://www.linkedin.com/pub/nitesh-sharma/13/48b/a63
 - *OS Project:* https://github.com/metanitesh/Js.metaList
+
+------------
+
+**Riten Vagadiya**
+/ Full-Stack (AngularJS, NodeJS)
+
+- *Personal:* http://riten.io
+- *GitHub:* http://github.com/ritenv
+- *Twitter:* http://twitter.com/ritenv
+- *LinkedIn:* http://ae.linkedin.com/in/ritenvagadiya
+- *OS Project:* http://github.com/ritenv/atwork
+
+
