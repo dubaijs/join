@@ -22,3 +22,13 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 - *Twitter:* http://twitter.com/ritenv
 - *LinkedIn:* http://ae.linkedin.com/in/ritenvagadiya
 - *Project:* http://github.com/ritenv/atwork
+
+------------
+
+**Nitesh Sharma**
+/ Full-stack (TDD, AngularJs, NodeJS)
+
+- *Personal:* http://niteshsharma.com/
+- *GitHub:* https://github.com/metanitesh
+- *LinkedIn:* https://www.linkedin.com/pub/nitesh-sharma/13/48b/a63
+- *OS Project:* https://github.com/metanitesh/Js.metaList
