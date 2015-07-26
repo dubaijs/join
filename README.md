@@ -14,6 +14,17 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 
 ------------
 
+**Rahul Vagadiya**
+/ Full-stack (AngularJs, NodeJS)
+
+- *Personal:* http://rahulv.com/
+- *GitHub:* https://github.com/theunexpected1
+- *Twitter:* https://twitter.com/rahul_vagadiya
+- *LinkedIn:* https://ae.linkedin.com/in/rahulvagadiya
+- *OS Project:* https://github.com/theunexpected1/holaa.io
+
+------------
+
 **Nitesh Sharma**
 / Full-stack (TDD, AngularJs, NodeJS)
 
