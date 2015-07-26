@@ -14,6 +14,16 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 
 ------------
 
+**Nitesh Sharma**
+/ Full-stack (TDD, AngularJs, NodeJS)
+
+- *Personal:* http://niteshsharma.com/
+- *GitHub:* https://github.com/metanitesh
+- *LinkedIn:* https://www.linkedin.com/pub/nitesh-sharma/13/48b/a63
+- *OS Project:* https://github.com/metanitesh/Js.metaList
+
+------------
+
 **Rahul Vagadiya**
 / Full-stack (AngularJs, NodeJS)
 
@@ -22,16 +32,6 @@ Below is a list of qualified developers who meet the minimum criteria, in terms 
 - *Twitter:* https://twitter.com/rahul_vagadiya
 - *LinkedIn:* https://ae.linkedin.com/in/rahulvagadiya
 - *OS Project:* https://github.com/theunexpected1/holaa.io
-
-------------
-
-**Nitesh Sharma**
-/ Full-stack (TDD, AngularJs, NodeJS)
-
-- *Personal:* http://niteshsharma.com/
-- *GitHub:* https://github.com/metanitesh
-- *LinkedIn:* https://www.linkedin.com/pub/nitesh-sharma/13/48b/a63
-- *OS Project:* https://github.com/metanitesh/Js.metaList
 
 ------------
 
